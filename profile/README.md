@@ -1,5 +1,7 @@
 ## Welcome to the future ✨
 
+![Banner](https://github.com/ScholarlyDigital/.github/blob/main/scholarly-digital-banner.png?raw=true)
+
 ### Who are we? 🤝
 
 Scholarly Digital is a group of talented individuals who share the common goal of using digital products to **improve the education industry**.
@@ -20,6 +22,10 @@ Unnamed AI Model | AI Model to convert natural language (essays and tests) to a 
 
 We aren't currently accepting applications to join.
 
-We aim to start in-taking emplyoees around end of Q4 of 2024.
+We aim to start in-taking emplyoees around end of Q2 of 2024.
 
 In the mean time, feel free to fork or contribute to any open source projects.
+
+### Any questions? 📬
+
+Feel free to reach out to us at our [support email](mailto:contact@scholarly.digital).
