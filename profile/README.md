@@ -1,21 +1,21 @@
-# Scholarly Team
+## Welcome to the future ✨
 
-> Scholarly product are currently in their early development stage and would like to be kept private for the time being.
+### Who are we? 🤝
 
-## Who are we?
+Scholarly Digital is a group of talented individuals who share the common goal of using digital products to **improve the education industry**.
 
-The Scholarly team is a software tool oriented development team working on making life for high school, college, and univeristy students the easiest it can be.
+We not only consist of **teachers and professors** but also have **students at the core** of our goal and company.
 
-## What are we doing?
+### What do we offer? 📦
 
-Currently Scholarly services are being kept private and currently under development. If you are willing to find out more about our ideas, contact us via email.
+Our company is in its very early stages, but some of our planned products in the future include:
 
-## Contributing
+Product | Description | Release Date
+--- | --- | --- 
+API | Public library for all kinds of solutions to implement into all kinds of digital education services. | December 2023 
+Coach | AI-Powered Chat App tailored for students and teachers with institution integration planned. | Early 2024 
+Unnamed AI Model | AI Model to convert natural language (essays and tests) to a statistical overview of a student (CAT-style) | Mid to Late 2024 
 
-> All contributions (if any) at this stage will require an NDA
+### How do you get involved? 💼
 
-We are keeping all mass communication (i.e. discord servers) closed for now as we would like to wait for a public MVP product announcement first. In the mean time, if you wish to learn more for investment oppurtunities, please contact us via email. 
-
-## License
-
-The legal terms of the Scholarly products and ideas are subject to change.
+TBF
