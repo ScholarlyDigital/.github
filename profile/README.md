@@ -14,15 +14,15 @@ Our company is in its very early stages, but here some of our planned products i
 
 Product 📦 | Description 📄 | Release Date 📆
 --- | --- | --- 
-CortexAPI | Public library for all kinds of solutions to implement into all kinds of digital education services. | December 2023 
-Coach | AI-Powered Chat App tailored for students and teachers with institution integration planned. | Early 2024 
+API | Public library for all kinds of solutions to implement into all kinds of digital education services. | Q1 2023 
+Coach | AI-Powered Chat App tailored for students and teachers with institution integration planned. | Q2 2024 
 Unnamed AI Model | AI Model to convert natural language (essays and tests) to a statistical overview of a student (CAT-style) | Late 2024 
 
 ### How do you get involved? 💼
 
 We aren't currently accepting applications to join.
 
-We aim to start in-taking emplyoees around end of Q2 of 2024.
+We aim to start in-taking emplyoees around Q3 of 2024.
 
 In the mean time, feel free to fork or contribute to any open source projects.
 
